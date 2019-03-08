@@ -1,1 +1,1 @@
-"# simple-app" 
+"# es6-exercises" 
